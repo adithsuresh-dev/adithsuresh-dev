@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m a BCA student passionate about Python, web development, and exploring Data Science, AI, and Machine Learning.<br>🌱 Always learning new skills and experimenting with projects  <br>💻 Interested in solving problems and building cool things  <br>🎯 Exploring my path in tech and seeing where it takes me
+I'm a developer exploring different areas of technology to discover where my interests and strengths align.
+💻 Working with: Python & Web Development
+🔍 Exploring: AI, Machine Learning & Data Science
+🛠️ Learning by: Building projects and experimenting with new ideas
+🧠 Interested in: Using technology to solve real-world problems
+🌱 Currently: Expanding my skills and discovering what I enjoy building
+🚀 Building my way forward
 
 
 # 💻 Tech Stack:
