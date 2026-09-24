@@ -1,11 +1,5 @@
 # 💫 About Me:
-I'm a developer exploring different areas of technology to discover where my interests and strengths align.
-💻 Working with: Python & Web Development
-🔍 Exploring: AI, Machine Learning & Data Science
-🛠️ Learning by: Building projects and experimenting with new ideas
-🧠 Interested in: Using technology to solve real-world problems
-🌱 Currently: Expanding my skills and discovering what I enjoy building
-🚀 Building my way forward
+I'm a developer exploring different areas of technology to discover where my interests and strengths align.<br>💻 Working with: Python & Web Development<br>🔍 Exploring: AI, Machine Learning & Data Science<br>🛠️ Learning by: Building projects and experimenting with new ideas<br>🧠 Interested in: Using technology to solve real-world problems<br>🌱 Currently: Expanding my skills and discovering what I enjoy building<br>🚀 Building my way forward
 
 
 # 💻 Tech Stack:
