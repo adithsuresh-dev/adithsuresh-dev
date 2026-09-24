@@ -11,7 +11,7 @@ I'm a developer currently exploring different areas of technology to find where 
 
 🌱 Continuously learning and discovering what I enjoy building
 
-🚀 Building my way forward.
+🚀 Building my way forward
 
 
 # 💻 Tech Stack:
